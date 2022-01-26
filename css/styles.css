@@ -1,0 +1,70 @@
+#title{
+  background-color: #35858B;
+  color:#fff;
+}
+
+.container-fluid{
+  text-align: center;
+  padding: 0% 5% 2% 5%;
+}
+h1{
+  font-family: Sacramento;
+  font-size: 4rem;
+}
+.author-img{
+     border-radius: 50%;
+     padding: 5% 5%;
+}
+.navbar{
+    padding: 2% 2%;
+}
+.nav-brand{
+  font-family: Montserrat;
+  color:#ff4c68;
+}
+.nav-brand:hover{
+  color:#ff4c68;
+}
+
+.navbar-nav{
+  position: absolute;
+  right: 0;
+}
+
+.title-button{
+  padding:10px 20px;
+  margin: 20px;
+}
+button.navbar-toggler{
+  position: absolute;
+  right: 0;
+}
+
+footer{
+  text-align: center;
+}
+
+.foot-icon{
+  padding: 2%
+}
+
+#skills{
+  padding: 2% 2%;
+  text-align: center;
+}
+.icon:hover
+{
+  color:#ff4c68;
+}
+
+#others{
+  background-color: #35858B;
+  color: white;
+  padding: 5% 10%;
+  font-size: 2rem;
+}
+
+h2{
+  font-family: Montserrat;
+  font-size: 3rem;
+}
