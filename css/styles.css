@@ -20,10 +20,6 @@ h1{
 }
 .nav-brand{
   font-family: Montserrat;
-  color:#ff4c68;
-}
-.nav-brand:hover{
-  color:#ff4c68;
 }
 
 .navbar-nav{
@@ -62,6 +58,24 @@ footer{
   color: white;
   padding: 5% 10%;
   font-size: 2rem;
+}
+
+#websites{
+  background-color: #325288;
+  color: white;
+  padding: 5% 10%;
+  text-align: center;
+}
+
+.btn-tindog{
+  padding: 10px 20px;
+  font-size: 1.5rem;
+  background-color: #ff4c68;
+}
+
+.btn-tindog:hover{
+  color:white;
+  background-color: #ef8172;
 }
 
 h2{
