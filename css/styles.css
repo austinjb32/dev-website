@@ -78,6 +78,18 @@ footer{
   background-color: #ef8172;
 }
 
+
+.btn-link{
+  padding: 10px 20px;
+  font-size: 1.5rem;
+  background-color: #2C3333;
+}
+
+.btn-link:hover{
+  color:white;
+  background-color: #ef8172;
+}
+
 h2{
   font-family: Montserrat;
   font-size: 3rem;
